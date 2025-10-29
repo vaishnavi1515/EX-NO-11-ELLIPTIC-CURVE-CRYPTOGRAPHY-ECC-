@@ -123,6 +123,7 @@ int main()
 ```
 
 ## Output:
+<img width="1746" height="931" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/3c52a666-09e4-487d-b1e4-e55862932db6" />
 
 
 ## Result:
